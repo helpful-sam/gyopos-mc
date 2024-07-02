@@ -1,10 +1,10 @@
-# MODS ON THE SERVER (1.20.6)
-## LEGEND
+# Mods on the server (1.20.6)
+## Legend
     1 = not up to date
     2 = has warnings
     3 = error loading
 
-## ACTIVE
+## Active
 
 #### Permissions
     https://modrinth.com/mod/luckperms
@@ -53,19 +53,19 @@
     https://modrinth.com/mod/ledger
 
 
-## IN TESTING
+## In testing
     https://modrinth.com/mod/glore (doesn't seem to work?)
 
     1 https://modrinth.com/mod/memoryleakfix
 
 
-## QUARANTINED
+## Quarantined
     https://modrinth.com/datapack/mob-captains - too OP, gotta rebalance
     https://modrinth.com/mod/enchantment-lore
     https://modrinth.com/mod/better-stats (doesn't change anything?)
 
 
-## WOULD LIKE TO ADD
+## Would like to add
     4 https://modrinth.com/mod/stackables
     4 https://modrinth.com/mod/gununleashed
     4 https://modrinth.com/mod/healthcare
