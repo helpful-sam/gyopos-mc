@@ -20,6 +20,7 @@
     https://modrinth.com/mod/fabric-language-kotlin - for Ledger
     https://modrinth.com/mod/modmenu - dependency for something (find out which)
     https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
+    https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar - for trinkets and in turn elytra
 
 
 #### Optimization
