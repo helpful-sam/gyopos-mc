@@ -19,6 +19,7 @@
     https://modrinth.com/mod/midnightlib - for Dynamic Lights
     https://modrinth.com/mod/fabric-language-kotlin - for Ledger
     https://modrinth.com/mod/modmenu - dependency for something (find out which)
+    https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
 
 
 #### Optimization
