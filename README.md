@@ -19,8 +19,6 @@
     https://modrinth.com/mod/midnightlib - for Dynamic Lights
     https://modrinth.com/mod/fabric-language-kotlin - for Ledger
     https://modrinth.com/mod/modmenu - dependency for something (find out which)
-    https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
-    https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar - for trinkets and in turn elytra
 
 
 #### Optimization
@@ -44,7 +42,6 @@
     https://modrinth.com/mod/sessility
     https://modrinth.com/datapack/infinite-storage-bundle
     https://modrinth.com/mod/universal-graves
-    https://www.curseforge.com/minecraft/mc-mods/elytra-slot
 
 #### Visuals
     3 https://modrinth.com/datapack/rpgtitles
@@ -63,9 +60,16 @@
 
 
 ## Quarantined
+
+### Ungrouped
     https://modrinth.com/datapack/mob-captains - too OP, gotta rebalance
     https://modrinth.com/mod/enchantment-lore
     https://modrinth.com/mod/better-stats (doesn't change anything?)
+
+### Elyta slot
+    https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
+    https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar - for trinkets and in turn elytra
+    https://www.curseforge.com/minecraft/mc-mods/elytra-slot
 
 
 ## Would like to add
