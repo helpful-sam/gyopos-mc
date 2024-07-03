@@ -42,6 +42,7 @@
     https://modrinth.com/mod/sessility
     https://modrinth.com/datapack/infinite-storage-bundle
     https://modrinth.com/mod/universal-graves
+    https://www.curseforge.com/minecraft/mc-mods/elytra-slot
 
 #### Visuals
     3 https://modrinth.com/datapack/rpgtitles
