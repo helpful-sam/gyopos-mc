@@ -11,7 +11,7 @@
     https://modrinth.com/mod/universal-perms
 
 
-#### Libraries/API/Dependencies
+#### Libraries, API, Dependencies
     https://modrinth.com/mod/fabric-api
     https://modrinth.com/mod/cloth-config
     https://modrinth.com/mod/balm
@@ -52,7 +52,7 @@
     https://modrinth.com/mod/jade
     https://modrinth.com/mod/glore (only works with shaders)
 
-#### Administrative/Debugging
+#### Administrative
     https://modrinth.com/mod/ledger
     https://modrinth.com/mod/leukocyte
 
@@ -63,12 +63,12 @@
 
 ## Quarantined
 
-### Ungrouped
+#### Ungrouped
     https://modrinth.com/datapack/mob-captains - too OP, gotta rebalance
     https://modrinth.com/mod/enchantment-lore
     https://modrinth.com/mod/better-stats (doesn't change anything?)
 
-### Elyta slot
+#### Elyta slot
     https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
     https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar - for trinkets and in turn elytra
     https://www.curseforge.com/minecraft/mc-mods/elytra-slot
