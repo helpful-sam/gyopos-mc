@@ -1,9 +1,9 @@
 # Mods on the main vanilla+ server (1.20.6)
 
-## Progress of updating to 1.21
-![Progress](https://progress-bar.dev/1/?scale=35&width=500&suffix=%&color=babaca&text=Progress)
+##### Progress of updating to 1.21
+    ![Progress](https://progress-bar.dev/1/?scale=35&width=500&suffix=%&color=babaca&text=Progress)
 
-## Legend
+##### Legend
     1 = not up to date
     2 = has warnings
     3 = error loading
