@@ -1,4 +1,4 @@
-# Mods on the server (1.20.6)
+# Mods on the main vanilla+ server (1.20.6)
 ## Legend
     1 = not up to date
     2 = has warnings
