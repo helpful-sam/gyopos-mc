@@ -1,7 +1,7 @@
 # Mods on the main vanilla+ server (1.20.6)
 
 ##### Progress of updating to 1.21
-![Progress](https://progress-bar.dev/1/?scale=36&width=500&suffix=%&color=babaca&text=Progress)
+![Progress](https://progress-bar.dev/31/?scale=36&width=500&suffix=%&color=babaca&text=Progress)
 
 ##### Legend
     1 = not up to date
@@ -37,7 +37,7 @@
 #### Mechanics
     https://modrinth.com/mod/monsters-in-the-closet
     https://modrinth.com/mod/double-doors
-    https://modrinth.com/mod/fallingtree/version/1.20.6-1.20.6.6
+    https://modrinth.com/mod/fallingtree/version
     https://modrinth.com/mod/replanting-crops
     https://modrinth.com/mod/universal-shops
     https://modrinth.com/datapack/dynamic-lights
