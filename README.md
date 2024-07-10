@@ -23,10 +23,11 @@
 
 #### Optimization
     https://modrinth.com/mod/lithium
-    https://modrinth.com/mod/c2me-fabric
     https://modrinth.com/mod/krypton
     https://modrinth.com/mod/ferrite-core
     https://modrinth.com/mod/slumber
+    https://modrinth.com/mod/servercore
+    1 https://modrinth.com/mod/memoryleakfix
 
 
 #### Mechanics
@@ -44,19 +45,20 @@
     https://modrinth.com/mod/universal-graves
 
 #### Visuals
-    3 https://modrinth.com/datapack/rpgtitles
     https://modrinth.com/mod/coords-hud
     https://modrinth.com/mod/villager-names-serilum
     https://modrinth.com/mod/compact-help-command
+    https://modrinth.com/mod/mc-server-description
+    https://modrinth.com/mod/jade
+    https://modrinth.com/mod/glore (only works with shaders)
 
 #### Administrative/Debugging
     https://modrinth.com/mod/ledger
+    https://modrinth.com/mod/leukocyte
 
 
 ## In testing
-    https://modrinth.com/mod/glore (doesn't seem to work?)
-
-    1 https://modrinth.com/mod/memoryleakfix
+    3 https://modrinth.com/datapack/rpgtitles
 
 
 ## Quarantined
