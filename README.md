@@ -54,7 +54,6 @@
     https://modrinth.com/mod/compact-help-command
     https://modrinth.com/mod/mc-server-description
     https://modrinth.com/mod/jade
-    https://modrinth.com/mod/glore (only works with shaders)
 
 #### Administrative
     https://modrinth.com/mod/ledger
@@ -68,9 +67,7 @@
 ## Quarantined
 
 #### Ungrouped
-    https://modrinth.com/datapack/mob-captains - too OP, gotta rebalance
     https://modrinth.com/mod/enchantment-lore
-    https://modrinth.com/mod/better-stats (doesn't change anything?)
 
 #### Elyta slot
     https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
