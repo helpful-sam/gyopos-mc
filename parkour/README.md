@@ -1,3 +1,6 @@
+# Current Map
+   [Only Up in Minecraft](https://www.planetminecraft.com/project/only-up-in-minecraft/)
+
 # Mods on the parkour server (1.20.6)
 ## Libraries, API, Dependencies
     https://modrinth.com/mod/fabric-api
