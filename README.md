@@ -54,6 +54,7 @@
     https://modrinth.com/mod/compact-help-command
     https://modrinth.com/mod/mc-server-description
     https://modrinth.com/mod/jade
+    https://modrinth.com/mod/enchantment-lore
 
 #### Administrative
     https://modrinth.com/mod/ledger
@@ -67,7 +68,6 @@
 ## Quarantined
 
 #### Ungrouped
-    https://modrinth.com/mod/enchantment-lore
 
 #### Elyta slot
     https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
