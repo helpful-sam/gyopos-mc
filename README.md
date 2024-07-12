@@ -59,15 +59,15 @@
 #### Administrative
     https://modrinth.com/mod/ledger
     https://modrinth.com/mod/leukocyte
+    https://modrinth.com/mod/mod-viewer
 
 
 ## In testing
-    3 https://modrinth.com/datapack/rpgtitles
-
 
 ## Quarantined
 
 #### Ungrouped
+    3 https://modrinth.com/datapack/rpgtitles
 
 #### Elyta slot
     https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
