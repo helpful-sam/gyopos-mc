@@ -13,3 +13,7 @@
     https://modrinth.com/mod/slumber
     https://modrinth.com/mod/servercore
     https://modrinth.com/mod/memoryleakfix
+
+
+## Mechanics
+   https://modrinth.com/mod/dohunger-gamerule
