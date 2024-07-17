@@ -61,18 +61,20 @@
     https://modrinth.com/mod/leukocyte
     https://modrinth.com/mod/mod-viewer
 
-
+    
 ## In testing
 
 ## Quarantined
 
 #### Ungrouped
-    3 https://modrinth.com/datapack/rpgtitles
+    3 https://modrinth.com/mod/followers-teleport-too
+    https://modrinth.com/datapack/rpgtitles (1.21 available)
 
 #### Elyta slot
     https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
     https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar - for trinkets and in turn elytra
     https://www.curseforge.com/minecraft/mc-mods/elytra-slot
+    https://modrinth.com/mod/trinkets-client-optional (1.21 only)
 
 
 ## Would like to add
