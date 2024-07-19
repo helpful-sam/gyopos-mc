@@ -47,6 +47,7 @@
     https://modrinth.com/mod/sessility
     https://modrinth.com/datapack/infinite-storage-bundle
     https://modrinth.com/mod/universal-graves
+    https://modrinth.com/mod/better-than-mending
 
 #### Visuals
     https://modrinth.com/mod/coords-hud
