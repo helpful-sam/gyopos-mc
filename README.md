@@ -60,14 +60,14 @@
     https://modrinth.com/mod/ledger
     https://modrinth.com/mod/leukocyte
     https://modrinth.com/mod/mod-viewer
+    https://modrinth.com/mod/mixintrace
+    https://modrinth.com/plugin/tabtps
+    https://modrinth.com/mod/fastback
 
     
 ## In testing
-    https://modrinth.com/mod/mixintrace
     https://modrinth.com/mod/scaffolding-drops-nearby
-    https://modrinth.com/plugin/tabtps
-    https://modrinth.com/mod/fastback
-    https://modrinth.com/mod/better-mount-hud
+    https://modrinth.com/mod/horsebuff
 
 ## Quarantined
     https://modrinth.com/mod/villager-names-serilum (perhaps increases persistent entities)
