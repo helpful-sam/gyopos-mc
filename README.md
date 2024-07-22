@@ -52,7 +52,6 @@
 #### Visuals
     https://modrinth.com/mod/coords-hud
     https://modrinth.com/mod/compact-help-command
-    https://modrinth.com/mod/mc-server-description
     https://modrinth.com/mod/jade
     https://modrinth.com/mod/enchantment-lore
 
@@ -61,12 +60,13 @@
     https://modrinth.com/mod/leukocyte
     https://modrinth.com/mod/mod-viewer
     https://modrinth.com/mod/mixintrace
-    https://modrinth.com/plugin/tabtps
     https://modrinth.com/mod/fastback
+    https://modrinth.com/mod/better-fabric-console
+    https://modrinth.com/mod/spark
 
     
 ## In testing
-    https://modrinth.com/mod/scaffolding-drops-nearby
+    https://modrinth.com/mod/scaffolding-drops-nearby (doesn't work..?)
     https://modrinth.com/mod/horsebuff
 
 ## Quarantined
