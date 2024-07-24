@@ -48,6 +48,7 @@
     https://modrinth.com/datapack/infinite-storage-bundle
     https://modrinth.com/mod/universal-graves
     https://modrinth.com/mod/better-than-mending
+    https://modrinth.com/plugin/worldedit
 
 #### Visuals
     https://modrinth.com/mod/coords-hud
