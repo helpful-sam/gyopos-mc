@@ -31,7 +31,6 @@
     https://modrinth.com/mod/ferrite-core
     https://modrinth.com/mod/slumber
     https://modrinth.com/mod/servercore
-    1 https://modrinth.com/mod/memoryleakfix
 
 
 #### Mechanics
