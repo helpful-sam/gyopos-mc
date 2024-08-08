@@ -1,9 +1,7 @@
 # Mods on the main vanilla+ server (1.20.6)
 
 ##### Progress of updating to 1.21
-<div style="width: 100%; background-color: #ddd;">
-  <div style="width: 97.5%; background-color: #4caf50; text-align: center; padding: 5px 0; color: white;">39 / 40</div>
-</div>
+![Progress](https://img.shields.io/badge/Progress-97.5%25-brightgreen)
 
 ##### Legend
     1 = not up to date
