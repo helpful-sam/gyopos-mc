@@ -1,8 +1,7 @@
 # Mods on the main vanilla+ server (1.20.6)
 
 ##### Progress of updating to 1.21
-![Progress](https://img.shields.io/badge/Progress-97.5%25-brightgreen)
-
+![Progress](https://progress-bar.dev/39/?scale=40&width=500&suffix=%2F40&color=babaca&text=Progress)
 ##### Legend
     1 = not up to date
     2 = has warnings
