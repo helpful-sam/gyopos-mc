@@ -1,7 +1,9 @@
 # Mods on the main vanilla+ server (1.20.6)
 
 ##### Progress of updating to 1.21
-![Progress](https://progress-bar.dev/39/?scale=40&width=500&suffix=/40&color=babaca&text=Progress)
+<div style="width: 100%; background-color: #ddd;">
+  <div style="width: 97.5%; background-color: #4caf50; text-align: center; padding: 5px 0; color: white;">39 / 40</div>
+</div>
 
 ##### Legend
     1 = not up to date
