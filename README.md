@@ -1,6 +1,6 @@
 # Mods on the main vanilla+ server (1.20.6)
 
-##### Progress of updating to 1.21
+##### Mods updated from 1.20.6 to 1.21
 ![](https://geps.dev/progress/97)
 
 ##### Legend
