@@ -1,7 +1,7 @@
 # Mods on the main vanilla+ server (1.20.6)
 
 ##### Progress of updating to 1.21
-[█████████████████████████████████████ ] 40/41
+|█████████████████████████████████████ | 40/41
 
 ##### Legend
     1 = not up to date
