@@ -1,7 +1,7 @@
 # Mods on the main vanilla+ server (1.20.6)
 
 ##### Progress of updating to 1.21
-![Progress](https://progress-bar.dev/40/?scale=41&width=500&suffix=/41&color=babaca&text=Progress)
+https://us-central1-progress-markdown.cloudfunctions.net/progress/97 (40/41)
 
 ##### Legend
     1 = not up to date
