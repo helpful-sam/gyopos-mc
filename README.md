@@ -84,7 +84,7 @@
     https://modrinth.com/datapack/better-babies
 
 #### Elyta slot
-    https://mediafilez.forgecdn.net/files/5374/304/trinkets-3.9.0.jar - for elytra slot
-    https://cdn.modrinth.com/data/K01OU20C/versions/YdQa8zdn/cardinal-components-api-6.0.0.jar - for trinkets and in turn elytra
-    https://www.curseforge.com/minecraft/mc-mods/elytra-slot
-    https://modrinth.com/mod/trinkets-client-optional (1.21 only)
+    https://modrinth.com/mod/trinkets - trinket slots API
+    https://modrinth.com/mod/cardinal-components-api - trinkets dependency
+    https://modrinth.com/mod/elytra-slot - elytra slot using trinkets API
+    https://modrinth.com/mod/trinkets-client-optional (1.21 only) - allows vanilla clients to join (still needs mod to use elyta slot)
