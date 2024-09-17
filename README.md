@@ -1,4 +1,4 @@
-# Mods on the main vanilla+ server (1.21)
+# Mods on the main vanilla+ server (1.21.1)
 
 ##### Legend
     1 = not up to date
@@ -63,8 +63,9 @@
 
     
 ## In testing
-    https://modrinth.com/mod/scaffolding-drops-nearby (doesn't work..?)
-    https://modrinth.com/mod/horsebuff
+    https://modrinth.com/mod/scaffolding-drops-nearby
+    https://modrinth.com/datapack/rpgtitles
+
 
 ## Quarantined
     https://modrinth.com/mod/villager-names-serilum (perhaps increases persistent entities)
@@ -73,7 +74,6 @@
 #### Ungrouped
     4 https://modrinth.com/mod/stackables
     3 https://modrinth.com/mod/followers-teleport-too
-    https://modrinth.com/datapack/rpgtitles (1.21 available)
 
 #### Gen's Mods (lags server + inconsistent)
     https://modrinth.com/datapack/developer-resources
