@@ -46,6 +46,13 @@
     https://modrinth.com/mod/better-than-mending
     https://modrinth.com/plugin/worldedit
 
+##### Requires Client-side mods to use
+    Elyta slot
+    https://modrinth.com/mod/elytra-slot - elytra slot using trinkets API
+    https://modrinth.com/mod/trinkets - trinket slots API
+    https://modrinth.com/mod/cardinal-components-api - trinkets dependency
+    https://modrinth.com/mod/trinkets-client-optional - makes trinkets optional
+
 #### Visuals
     https://modrinth.com/mod/coords-hud
     https://modrinth.com/mod/compact-help-command
@@ -79,9 +86,3 @@
     https://modrinth.com/datapack/developer-resources
     https://modrinth.com/datapack/trade-villager-hats
     https://modrinth.com/datapack/better-babies
-
-#### Elyta slot
-    https://modrinth.com/mod/trinkets - trinket slots API
-    https://modrinth.com/mod/cardinal-components-api - trinkets dependency
-    https://modrinth.com/mod/elytra-slot - elytra slot using trinkets API
-    https://modrinth.com/mod/trinkets-client-optional (1.21 only) - allows vanilla clients to join (still needs mod to use elyta slot)
