@@ -28,6 +28,7 @@
     https://modrinth.com/mod/ferrite-core
     https://modrinth.com/mod/slumber
     https://modrinth.com/mod/servercore
+    https://modrinth.com/mod/debugify
 
 
 #### Mechanics
@@ -45,13 +46,13 @@
     https://modrinth.com/mod/universal-graves
     https://modrinth.com/mod/better-than-mending
     https://modrinth.com/plugin/worldedit
+    https://modrinth.com/mod/scaffolding-drops-nearby
 
-##### Requires Client-side mods to use
     Elyta slot
     https://modrinth.com/mod/elytra-slot - elytra slot using trinkets API
-    https://modrinth.com/mod/trinkets - trinket slots API
+    https://modrinth.com/mod/trinkets
     https://modrinth.com/mod/cardinal-components-api - trinkets dependency
-    https://modrinth.com/mod/trinkets-client-optional - makes trinkets optional
+    https://modrinth.com/mod/trinkets-client-optional - allow vanilla clients to join
 
 #### Visuals
     https://modrinth.com/mod/coords-hud
@@ -67,15 +68,6 @@
     https://modrinth.com/mod/fastback
     https://modrinth.com/mod/better-fabric-console
     https://modrinth.com/mod/spark
-
-    
-## In testing
-    https://modrinth.com/mod/scaffolding-drops-nearby
-    https://modrinth.com/datapack/rpgtitles
-
-
-## Quarantined
-    https://modrinth.com/mod/villager-names-serilum (perhaps increases persistent entities)
 
 ## Would like to add
 #### Ungrouped
