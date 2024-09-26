@@ -34,7 +34,7 @@
 #### Mechanics
     https://modrinth.com/mod/monsters-in-the-closet
     https://modrinth.com/mod/double-doors
-    https://modrinth.com/mod/fallingtree/version
+    https://modrinth.com/mod/fallingtree
     https://modrinth.com/mod/replanting-crops
     https://modrinth.com/mod/universal-shops
     https://modrinth.com/datapack/dynamic-lights
